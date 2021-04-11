@@ -217,3 +217,7 @@ button {
 .dealsoftheday>.sideitem {
     flex: 0.2;
 }
+
+.dBody>.DOption>img {
+    height: 300px;
+}
